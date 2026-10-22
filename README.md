@@ -1,4 +1,4 @@
-# L'IA et l'IA générative
+# workshop1: L'IA et l'IA générative 
 Pour qu'on soit bien d'accord dés le début et ne pas se perdre, il faut qu'on donne une définition de l'IA et l'IA générative:
  * **IA:(intelligence artificielle) c'est un domaine qui cherche à concevoir des systèmes capables d'accomplir des taches associées à des capacités intelligentes.
  * **IA générative :**c'est un système capable de générer de nouveaux contenus à partir d'une instruction et/ou d'un contexte
